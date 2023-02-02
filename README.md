@@ -19,6 +19,7 @@ Using mediapipe library to detect hand motions and pycaw lobrary to modify syste
   <p>
     Now Import my files as a .zip or git clone using :https://github.com/greeenboi/Volume-control-with-hand-detection.git
     <br>
-    Then Run main.py
-  
+    Then Run main.py.
+    <b>Keep in mind that the camera module is set to the default (0) camera on your device. Change it to 1 or other values in the code. Check the comments in the code </b><br> 
+    
   **UNFINISHED**
