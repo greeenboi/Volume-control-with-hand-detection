@@ -21,5 +21,18 @@ Using mediapipe library to detect hand motions and pycaw lobrary to modify syste
     <br>
     Then Run main.py.
     <b>Keep in mind that the camera module is set to the default (0) camera on your device. Change it to 1 or other values in the code. Check the comments in the code </b><br> 
-    
-  **UNFINISHED**
+    There is a specific section marked. Comment it if there are issues with your output.
+</p>
+</details>
+
+<details id=2 open>
+<summary><h1>Usage</h1></summary>
+<p>
+Once the program is running. You will see a window open up that displays the camera output.<br>
+Put up your hand to the camera and adjust the distance between your index and thumb finger-tips<br>
+It will display the volume and dist btw the fingertips on screen. <br>
+<br><b><i> Note that this feature is not optimized across devices and I would appreciate some help if possible.:grin: </i></b><br>
+
+</p>
+</details>
+  
