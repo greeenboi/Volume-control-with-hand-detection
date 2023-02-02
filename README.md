@@ -3,9 +3,9 @@ Using mediapipe library to detect hand motions and pycaw lobrary to modify syste
 
 # Libraries used
 
-1. Mediapipe
+1. [Mediapipe](https://google.github.io/mediapipe/solutions/hands.html)
 2. Open-cv
-3. Pycaw
+3. [Pycaw](https://github.com/AndreMiras/pycaw)
 4. Numpy
 5. Math
 
